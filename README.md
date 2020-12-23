@@ -1,5 +1,6 @@
 # citation_generation
-Download data here: https://pan.baidu.com/s/1BUz-VTxukC3t_Vs3O-dFhQ. Extraction code:1zbw
+Download data here: https://drive.google.com/file/d/1VDUXJKeqJW02fVoqIAvNVrOt-hRUgGMy/view?usp=sharing​
+or here: https://pan.baidu.com/s/1BUz-VTxukC3t_Vs3O-dFhQ. Extraction code:1zbw
 
 文件的每一行是一个json格式的数据，其属性如下：（Each line of the file is a json data with the following attributes） \
 + src_paper_id: 引用论文id（the id of the citing paper）
